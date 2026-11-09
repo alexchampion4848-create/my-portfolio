@@ -1,4 +1,3 @@
-# my-portfolio
 # Алексей Чилей
 ![Фото](https://novostipmr.com/sites/default/files/field/image/photo_2024-06-17_11-07-40.jpg)
 ### Студент РАНХиГС | Бизнес-информатика
@@ -16,4 +15,4 @@
 ## Обо мне
 Занимаюсь спортом с детства, имею звание мастера спорта по кикбоксингу. Интересуюсь развитием технологий, бизнеса и изучением новых инструментов.
 ## Контакты
-- GitHub: [alexchampion4848-create](https://github.com/alexcham
+- GitHub: [alexchampion4848-create](https://github.com/alexchamion4949-create)
