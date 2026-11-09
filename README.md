@@ -15,4 +15,4 @@
 ## Обо мне
 Занимаюсь спортом с детства, имею звание мастера спорта по кикбоксингу. Интересуюсь развитием технологий, бизнеса и изучением новых инструментов.
 ## Контакты
-- GitHub: [alexchampion4848-create](https://github.com/alexchamion4949-create)
+- GitHub: [alexchampion4848-create](https://github.com/alexchamion4848-create)
